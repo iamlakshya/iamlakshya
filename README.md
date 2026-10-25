@@ -1,5 +1,4 @@
 ### Hi there 👋
-> Born to code 💻, forced to invert the node 🌲
 <!--
 **iAmLakshya/iamlakshya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
